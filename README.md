@@ -2,8 +2,6 @@
 - 👀 I’m interested in Artificial Intelligence and DevGames
 - 🌱 I’m currently learning Introduction to AI
 - 💞️ I’m looking to collaborate on open source developments
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love pizza and sushi
 
 <!---
